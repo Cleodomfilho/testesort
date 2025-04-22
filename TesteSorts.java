@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class TesteSorts {
-    static final int[] TAMANHOS = {10000, 300000, 500000, 800000, 1000000};
+    static final int[] TAMANHOS = {10000, 50000, 100000, 300000, 800000, 1000000};
     static final int REPETICOES = 10;
 
     public static void main(String[] args) {
